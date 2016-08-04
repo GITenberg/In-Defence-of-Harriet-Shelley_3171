@@ -1,0 +1,30 @@
+_repo: In-Defence-of-Harriet-Shelley_3171
+_version: 0.0.1
+alternative_title: In Defense Of Harriet Shelley
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Twain, Mark (Samuel Clemens)
+    - Clemens, Samuel Langhorne
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: ''
+gutenberg_issued: '2004-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3171'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shelley, Harriet Westbrook, d. 1816'
+- !lcc 'PS'
+- !lcsh 'Shelley, Percy Bysshe, 1792-1822'
+- GITenberg
+title: In Defence of Harriet Shelley
+url: http://www.gutenberg.org/ebooks/3171
